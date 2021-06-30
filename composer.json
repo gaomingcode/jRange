@@ -1,0 +1,18 @@
+{
+    "name": "gaomingcode/jquery.range",
+    "description": "jQuery plugin to create range selector",
+    "type": "library",
+    "license": [
+        "MIT"
+    ],
+    "keywords": ["jquery", "range"],
+    "homepage": "https://github.com/nitinhayaran/jRange#readme",
+    "minimum-stability": "stable",
+    "prefer-stable": true,
+    "authors": [
+        {
+            "name": "Nitin Hayaran",
+            "email": "nitinhayaran@gmail.com"
+        }
+    ]
+}
